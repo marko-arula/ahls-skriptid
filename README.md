@@ -20,8 +20,17 @@ Pärast tuleb luua repositooriumite jaoks eraldi kaust. Linuxi operatsioonisüst
 - su root
 - cd ~
 - mkdir "Nimi mis kaustale jääb"
+- cd "Äsja loodud kaust"
+- git init
 ```
-
+Enda Linux-i masinasse tuleb luua SSH võtmepaar. Just loodud võtmepaar salvestada enda valitud kausta, ning sellele lisada ka 'turvaline' parool.
+```
+ssh-keygen -t rsa -b 4096 -C "email@google.com"
+```
+Lõpuks ühendada GitHub repositooriumiga.
+```
+ssh -T git@github.com
+```
 
 ## Litsents
 Selle repositooriumi sisu on litsenseeritud 'MIT' Litsensi all - rohkem infot leiab LICENSE.md failis
