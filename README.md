@@ -32,6 +32,17 @@ Lõpuks ühendada GitHub repositooriumiga.
 ssh -T git@github.com
 ```
 
+## Skriptid
+Siin repositooriumis on välja toodud kuidas ning millised näevad välja järgmised skriptid (!Kõik käsud tuleb teha 'root' administraator kasutajana):
+
+- Apache2 paigaldus
+- MySQL'i paigaldus
+- PhpMyAdmin'i paigaldus
+- WordPress'i paigaldus
+- PHP paigaldus
+- Kasutajate Loomine - nime põhjalised
+- kasutajate loomine - tekstidokumentide põhjalised
+
 ## Litsents
 Selle repositooriumi sisu on litsenseeritud 'MIT' Litsensi all - rohkem infot leiab LICENSE.md failis
 
