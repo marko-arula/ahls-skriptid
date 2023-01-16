@@ -15,7 +15,12 @@ git config --global user.email email@domeen.ee
 git config --global core.editor nano
 ```
 
-
+Pärast tuleb luua repositooriumite jaoks eraldi kaust. Linuxi operatsioonisüsteemide puhul tuleb seda teha root kasutajana. Repositoorium luuakse järgnevalt:
+```
+- su root
+- cd ~
+- mkdir "Nimi mis kaustale jääb"
+```
 
 
 ## Litsents
