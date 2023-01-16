@@ -18,6 +18,7 @@ git config --global core.editor nano
 
 
 
-
+## Litsents
+Selle repositooriumi sisu on litsenseeritud 'MIT' Litsensi all - rohkem infot leiab LICENSE.md failis
 
 Marko Arula GitHub Repositoorium
