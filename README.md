@@ -7,7 +7,7 @@ Git-i saab paigaldada järgnevalt:
 ```
 apt install git
 ```
-Git seadistamine:
+### Git seadistamine:
 ```
 git config --global user.name "Ees Perenimi"
 git config --global user.email email@domeen.ee
