@@ -19,4 +19,4 @@ git config --global core.editor nano
 
 
 
-Marko Arula git repo
+Marko Arula GitHub Repositoorium
