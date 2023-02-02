@@ -42,6 +42,8 @@ Siin repositooriumis on välja toodud kuidas ning millised näevad välja järgm
 - PHP paigaldus
 - Kasutajate Loomine - nime põhjalised
 - kasutajate loomine - tekstidokumentide põhjalised
+- Soovitud kaustade varundamine soovitud kohta
+- Automaatiseeritud kasutaja tegemine failist
 
 ## Litsents
 Selle repositooriumi sisu on litsenseeritud 'MIT' Litsensi all - rohkem infot leiab LICENSE.md failis
